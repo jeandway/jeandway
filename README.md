@@ -5,7 +5,7 @@ ________________________________________________________________________________
 I am a Computer Science student with experience in programming languages. I have experience with database development with SQL. I have knowledge in software patterns and practices, commercial experience of the full software lifecycle. I have strong attention to details and experience with source control systems Git.  
 
 * 🌍  I'm based in Michigan, USA
-* ✉️  You can contact me at [r.sihanat@gmail.com](mailto:r.sihanat@gmail.com)
+* ✉️  You can contact me at [rj.dilloway@gmail.com](mailto:rjean.dilloway@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://myappc.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on Projects
