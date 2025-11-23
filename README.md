@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jean Dilloway 
 ______________________________________________________________________________________
-Software Engineer
+CS student learning Cloud and AI/ML while building hands-on projects and improving my skills.
 ______________________________________________________________________________________
-Learning Cloud and AI/ML while building real projects and improving my skills.
 
 * 🌍  I'm based in Michigan, USA
 * ✉️  You can contact me at [rjean.dilloway@gmail.com](mailto:rjean.dilloway@gmail.com)
