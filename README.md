@@ -27,7 +27,7 @@
 ## About Me
 
 **Education:** Computer Science student at Wayne State University  
-**Location:** Michigan, USA  
+**Location:**  USA  
 **Interests:** Cloud, backend systems, databases, AI/ML, and cybersecurity  
 **Building:** Full-stack projects with React, Flask, Python, Supabase, and modern web tools  
 **Currently:** Improving my full-stack development, deployment, and software engineering skills  
